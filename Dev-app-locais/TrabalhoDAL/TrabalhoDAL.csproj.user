@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DiferencaDias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DiferencaNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Idade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IMC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ParImpar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PorTres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temperatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tempo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZeroaCem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
