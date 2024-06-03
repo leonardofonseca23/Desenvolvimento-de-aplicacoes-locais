@@ -90,5 +90,26 @@ namespace TrabalhoDAL
             zeroacem.MdiParent = this;
             zeroacem.Show();
         }
+
+        private void numerosRepetidosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            NumerosRepetidos numerosrepetidos = new NumerosRepetidos();
+            numerosrepetidos.MdiParent = this;
+            numerosrepetidos.Show();
+        }
+
+        private void letraNaFraseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frase frase = new Frase();
+            frase.MdiParent = this;
+            frase.Show();
+        }
+
+        private void anoBissextoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AnoBissexto anoBissexto = new AnoBissexto();
+            anoBissexto.MdiParent = this;
+            anoBissexto.Show();
+        }
     }
 }

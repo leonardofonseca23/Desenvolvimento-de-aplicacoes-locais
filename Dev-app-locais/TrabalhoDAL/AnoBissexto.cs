@@ -10,22 +10,25 @@ using System.Windows.Forms;
 
 namespace TrabalhoDAL
 {
-    public partial class DiferencaDias : Form
+    public partial class AnoBissexto : Form
     {
-        public DiferencaDias()
+        public AnoBissexto()
         {
             InitializeComponent();
         }
 
         private void btnConfirmar_Click(object sender, EventArgs e)
         {
-            DateTime data1 = dtp1.Value;
-            DateTime data2 = dtp2.Value;
+            int ano = Convert.ToInt32(txtAno.Text);
 
-            TimeSpan diferenca = data2 - data1;
-            int diasDiferenca = Math.Abs(diferenca.Days);
-
-            MessageBox.Show($"A diferença é de {diasDiferenca} dias.");
+            if ((ano % 4 == 0 && ano % 100 != 0) || (ano % 400 == 0))
+            {
+                MessageBox.Show($"{ano} é um ano bissexto.");
+            }
+            else 
+            {
+                MessageBox.Show($"{ano} não é um ano bissexto.");
+            }
         }
     }
 }

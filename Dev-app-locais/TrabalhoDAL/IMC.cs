@@ -19,12 +19,12 @@ namespace TrabalhoDAL
 
         private void btnConfirmar_Click(object sender, EventArgs e)
         {
-            var altura = Convert.ToDouble(txtAltura);
-            double peso = Convert.ToDouble(txtPeso);
+            decimal peso = Convert.ToDecimal(txtPeso.Text);
+            decimal altura =Convert.ToDecimal(txtAltura.Text);
 
-            double resp = peso / (altura * altura);
+            decimal resp = peso / (altura * altura);
 
-            MessageBox.Show ($"Seu IMC é: {resp}");
+            MessageBox.Show($"Seu IMC é: {resp:F2}");
         }
     }
 }
