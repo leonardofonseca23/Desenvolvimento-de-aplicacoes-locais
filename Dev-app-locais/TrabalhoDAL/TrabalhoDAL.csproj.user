@@ -43,6 +43,9 @@
     <Compile Update="Tempo.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Vetor.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ZeroaCem.cs">
       <SubType>Form</SubType>
     </Compile>

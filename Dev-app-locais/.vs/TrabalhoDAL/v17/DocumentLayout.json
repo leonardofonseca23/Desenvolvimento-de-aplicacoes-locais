@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\",
+  "WorkspaceRootPath": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|c:\\users\\leonardo\\onedrive\\\u00E1rea de trabalho\\leo\\estudos\\desenvolvimento-de-aplicacoes-locais\\dev-app-locais\\trabalhodal\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|c:\\users\\leona\\\u00E1rea de trabalho\\github\\desenvolvimento-de-aplicacoes-locais\\dev-app-locais\\trabalhodal\\vetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\vetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|c:\\users\\leonardo\\onedrive\\\u00E1rea de trabalho\\leo\\estudos\\desenvolvimento-de-aplicacoes-locais\\dev-app-locais\\trabalhodal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|c:\\users\\leona\\\u00E1rea de trabalho\\github\\desenvolvimento-de-aplicacoes-locais\\dev-app-locais\\trabalhodal\\vetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\vetor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\trabalhodal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|c:\\users\\leonardo\\onedrive\\\u00E1rea de trabalho\\leo\\estudos\\desenvolvimento-de-aplicacoes-locais\\dev-app-locais\\trabalhodal\\diferencadias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\diferencadias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\trabalhodal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\trabalhodal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|c:\\users\\leona\\\u00E1rea de trabalho\\github\\desenvolvimento-de-aplicacoes-locais\\dev-app-locais\\trabalhodal\\numerosrepetidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\numerosrepetidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|c:\\users\\leona\\\u00E1rea de trabalho\\github\\desenvolvimento-de-aplicacoes-locais\\dev-app-locais\\trabalhodal\\numerosrepetidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD723C07-12AB-4790-BF2C-B877196D97DD}|TrabalhoDAL\\TrabalhoDAL.csproj|solutionrelative:trabalhodal\\numerosrepetidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,38 +39,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Nota.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Nota.cs",
-              "RelativeDocumentMoniker": "TrabalhoDAL\\Nota.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Nota.cs",
-              "RelativeToolTip": "TrabalhoDAL\\Nota.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Vetor.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Vetor.cs",
+              "RelativeDocumentMoniker": "TrabalhoDAL\\Vetor.cs",
+              "ToolTip": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Vetor.cs",
+              "RelativeToolTip": "TrabalhoDAL\\Vetor.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwCsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:14:44.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DiferencaDias.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\DiferencaDias.cs",
-              "RelativeDocumentMoniker": "TrabalhoDAL\\DiferencaDias.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\DiferencaDias.cs",
-              "RelativeToolTip": "TrabalhoDAL\\DiferencaDias.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:12:55.719Z",
+              "WhenOpened": "2024-06-04T00:06:56.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Vetor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Vetor.cs",
+              "RelativeDocumentMoniker": "TrabalhoDAL\\Vetor.cs",
+              "ToolTip": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Vetor.cs [Projeto]",
+              "RelativeToolTip": "TrabalhoDAL\\Vetor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:00:44.287Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumerosRepetidos.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\NumerosRepetidos.cs",
+              "RelativeDocumentMoniker": "TrabalhoDAL\\NumerosRepetidos.cs",
+              "ToolTip": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\NumerosRepetidos.cs",
+              "RelativeToolTip": "TrabalhoDAL\\NumerosRepetidos.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:41:03.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumerosRepetidos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\NumerosRepetidos.cs",
+              "RelativeDocumentMoniker": "TrabalhoDAL\\NumerosRepetidos.cs",
+              "ToolTip": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\NumerosRepetidos.cs [Projeto]",
+              "RelativeToolTip": "TrabalhoDAL\\NumerosRepetidos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:40:11.188Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Inicio.cs",
-              "DocumentMoniker": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Inicio.cs",
               "RelativeDocumentMoniker": "TrabalhoDAL\\Inicio.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Inicio.cs",
+              "ToolTip": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Inicio.cs",
               "RelativeToolTip": "TrabalhoDAL\\Inicio.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAUwHMAAAAAAAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwHYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T23:02:09.192Z",
               "EditorCaption": ""
@@ -71,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Inicio.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Inicio.cs",
               "RelativeDocumentMoniker": "TrabalhoDAL\\Inicio.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Inicio.cs [Projeto]",
+              "ToolTip": "C:\\Users\\leona\\\u00C1rea de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\Inicio.cs [Projeto]",
               "RelativeToolTip": "TrabalhoDAL\\Inicio.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T22:55:30.92Z",

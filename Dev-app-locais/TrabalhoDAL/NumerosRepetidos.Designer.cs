@@ -66,6 +66,7 @@
             btnConfirmar.TabIndex = 2;
             btnConfirmar.Text = "Confirmar";
             btnConfirmar.UseVisualStyleBackColor = true;
+            btnConfirmar.Click += btnConfirmar_Click;
             // 
             // txtNum2
             // 
@@ -107,6 +108,7 @@
             btnAdd1.TabIndex = 7;
             btnAdd1.Text = "Adicionar";
             btnAdd1.UseVisualStyleBackColor = true;
+            btnAdd1.Click += btnAdd1_Click;
             // 
             // btnAdd2
             // 
@@ -116,6 +118,7 @@
             btnAdd2.TabIndex = 8;
             btnAdd2.Text = "Adicionar";
             btnAdd2.UseVisualStyleBackColor = true;
+            btnAdd2.Click += btnAdd2_Click;
             // 
             // NumerosRepetidos
             // 

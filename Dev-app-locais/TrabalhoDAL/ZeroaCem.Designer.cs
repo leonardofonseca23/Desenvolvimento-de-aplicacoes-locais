@@ -31,8 +31,9 @@
             btnConferir = new Button();
             btnAdd = new Button();
             label1 = new Label();
-            txtNum = new TextBox();
             lbNumeros = new ListBox();
+            numericUpDown1 = new NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
             // 
             // btnConferir
@@ -43,6 +44,7 @@
             btnConferir.TabIndex = 0;
             btnConferir.Text = "Conferir";
             btnConferir.UseVisualStyleBackColor = true;
+            btnConferir.Click += btnConferir_Click;
             // 
             // btnAdd
             // 
@@ -52,6 +54,7 @@
             btnAdd.TabIndex = 1;
             btnAdd.Text = "Adicionar";
             btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // label1
             // 
@@ -62,13 +65,6 @@
             label1.TabIndex = 2;
             label1.Text = "Digite um número de 0 a 100";
             // 
-            // txtNum
-            // 
-            txtNum.Location = new Point(63, 57);
-            txtNum.Name = "txtNum";
-            txtNum.Size = new Size(100, 23);
-            txtNum.TabIndex = 3;
-            // 
             // lbNumeros
             // 
             lbNumeros.FormattingEnabled = true;
@@ -78,18 +74,26 @@
             lbNumeros.Size = new Size(120, 94);
             lbNumeros.TabIndex = 4;
             // 
+            // numericUpDown1
+            // 
+            numericUpDown1.Location = new Point(54, 57);
+            numericUpDown1.Name = "numericUpDown1";
+            numericUpDown1.Size = new Size(120, 23);
+            numericUpDown1.TabIndex = 5;
+            // 
             // ZeroaCem
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(244, 251);
+            Controls.Add(numericUpDown1);
             Controls.Add(lbNumeros);
-            Controls.Add(txtNum);
             Controls.Add(label1);
             Controls.Add(btnAdd);
             Controls.Add(btnConferir);
             Name = "ZeroaCem";
             Text = "ZeroaCem";
+            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -99,7 +103,7 @@
         private Button btnConferir;
         private Button btnAdd;
         private Label label1;
-        private TextBox txtNum;
         private ListBox lbNumeros;
+        private NumericUpDown numericUpDown1;
     }
 }

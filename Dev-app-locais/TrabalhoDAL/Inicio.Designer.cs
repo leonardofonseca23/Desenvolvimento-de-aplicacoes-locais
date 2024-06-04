@@ -45,8 +45,9 @@ partial class Inicio
         de0A100ToolStripMenuItem = new ToolStripMenuItem();
         numerosRepetidosToolStripMenuItem = new ToolStripMenuItem();
         letraNaFraseToolStripMenuItem = new ToolStripMenuItem();
-        parte4ToolStripMenuItem = new ToolStripMenuItem();
         anoBissextoToolStripMenuItem = new ToolStripMenuItem();
+        parte4ToolStripMenuItem = new ToolStripMenuItem();
+        vetorToolStripMenuItem = new ToolStripMenuItem();
         menuStrip1.SuspendLayout();
         SuspendLayout();
         // 
@@ -172,18 +173,26 @@ partial class Inicio
         letraNaFraseToolStripMenuItem.Text = "Letra na frase";
         letraNaFraseToolStripMenuItem.Click += letraNaFraseToolStripMenuItem_Click;
         // 
-        // parte4ToolStripMenuItem
-        // 
-        parte4ToolStripMenuItem.Name = "parte4ToolStripMenuItem";
-        parte4ToolStripMenuItem.Size = new Size(55, 20);
-        parte4ToolStripMenuItem.Text = "Parte 4";
-        // 
         // anoBissextoToolStripMenuItem
         // 
         anoBissextoToolStripMenuItem.Name = "anoBissextoToolStripMenuItem";
         anoBissextoToolStripMenuItem.Size = new Size(180, 22);
         anoBissextoToolStripMenuItem.Text = "Ano Bissexto";
         anoBissextoToolStripMenuItem.Click += anoBissextoToolStripMenuItem_Click;
+        // 
+        // parte4ToolStripMenuItem
+        // 
+        parte4ToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { vetorToolStripMenuItem });
+        parte4ToolStripMenuItem.Name = "parte4ToolStripMenuItem";
+        parte4ToolStripMenuItem.Size = new Size(55, 20);
+        parte4ToolStripMenuItem.Text = "Parte 4";
+        // 
+        // vetorToolStripMenuItem
+        // 
+        vetorToolStripMenuItem.Name = "vetorToolStripMenuItem";
+        vetorToolStripMenuItem.Size = new Size(180, 22);
+        vetorToolStripMenuItem.Text = "Vetor";
+        vetorToolStripMenuItem.Click += vetorToolStripMenuItem_Click;
         // 
         // Inicio
         // 
@@ -224,4 +233,5 @@ partial class Inicio
     private ToolStripMenuItem numerosRepetidosToolStripMenuItem;
     private ToolStripMenuItem letraNaFraseToolStripMenuItem;
     private ToolStripMenuItem anoBissextoToolStripMenuItem;
+    private ToolStripMenuItem vetorToolStripMenuItem;
 }

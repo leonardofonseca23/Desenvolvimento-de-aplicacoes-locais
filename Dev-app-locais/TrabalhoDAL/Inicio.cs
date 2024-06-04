@@ -111,5 +111,12 @@ namespace TrabalhoDAL
             anoBissexto.MdiParent = this;
             anoBissexto.Show();
         }
+
+        private void vetorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Vetor vetor = new Vetor();
+            vetor.MdiParent = this;
+            vetor.Show();
+        }
     }
 }

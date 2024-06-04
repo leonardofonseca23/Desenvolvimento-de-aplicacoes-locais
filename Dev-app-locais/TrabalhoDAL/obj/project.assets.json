@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leonardo\\.nuget\\packages\\": {}
+    "C:\\Users\\leona\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\TrabalhoDAL.csproj",
+      "projectUniqueName": "C:\\Users\\leona\\Área de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\TrabalhoDAL.csproj",
       "projectName": "TrabalhoDAL",
-      "projectPath": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\TrabalhoDAL.csproj",
-      "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\Leo\\Estudos\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\obj\\",
+      "projectPath": "C:\\Users\\leona\\Área de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\TrabalhoDAL.csproj",
+      "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leona\\Área de Trabalho\\GitHub\\Desenvolvimento-de-aplicacoes-locais\\Dev-app-locais\\TrabalhoDAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
